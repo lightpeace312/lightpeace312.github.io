@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on LightPeace</title>
-    <link>http://lightpeace312.github.io/posts/</link>
-    <description>Recent content in Posts on LightPeace</description>
+    <title>Posts on Hugo Bootstrap v4 Blog</title>
+    <link>https://lightpeace312.github.io/posts/</link>
+    <description>Recent content in Posts on Hugo Bootstrap v4 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 17 May 2020 16:47:56 +0800</lastBuildDate>
     
-	<atom:link href="http://lightpeace312.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lightpeace312.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://lightpeace312.github.io/posts/my-first-post/</link>
+      <link>https://lightpeace312.github.io/2020/05/my-first-post/</link>
       <pubDate>Sun, 17 May 2020 16:47:56 +0800</pubDate>
       
-      <guid>http://lightpeace312.github.io/posts/my-first-post/</guid>
+      <guid>https://lightpeace312.github.io/2020/05/my-first-post/</guid>
       <description>first hugo post with theme bootstrap v4. test finished</description>
     </item>
     
